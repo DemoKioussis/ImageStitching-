@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCV Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(170): warning C4068: unknown pragma
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(235): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(294): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(378): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(383): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(415): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(421): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(422): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\featurematcher.h(456): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(114): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(222): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(230): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(231): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(232): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(233): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(243): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(244): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(264): warning C4101: 'xlast': unreferenced local variable
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(264): warning C4101: 'xfirst': unreferenced local variable
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(264): warning C4101: 'ylast': unreferenced local variable
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(264): warning C4101: 'yfirst': unreferenced local variable
+c:\users\demok\documents\visual studio 2015\projects\cv_3\opencv project1\source.cpp(340): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OpenCV Project1.vcxproj -> C:\Users\Demok\Documents\Visual Studio 2015\Projects\CV_3\x64\Debug\CV_3.exe
+  OpenCV Project1.vcxproj -> C:\Users\Demok\Documents\Visual Studio 2015\Projects\CV_3\x64\Debug\CV_3.pdb (Full PDB)
