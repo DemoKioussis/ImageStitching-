@@ -4,7 +4,7 @@ however it was as easy as feeding in the resulting image back into the loop to s
 As it is in its current state, images compared together must be overlapping somewhere for it to work properly, 
 and if two related images are compared, with no overlap then the final result will be an error
 
-eg: A overlaps with B
+    eg: A overlaps with B
     C overlaps with B
     A and C have no overlap
     
